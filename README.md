@@ -1,4 +1,4 @@
-## Data Science Project Template
+## Gym sets and rep counter(Barbell Exercises)
 
 # Wearable Workout Data Visualization
 
